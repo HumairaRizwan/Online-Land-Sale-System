@@ -1,0 +1,9 @@
+#ART{
+	width: 100%;
+	padding: 20px 100px;
+	text-shadow: 2px 2px 5px black;
+	color: white;
+}
+#ART p{
+	font-size: 18px;
+}

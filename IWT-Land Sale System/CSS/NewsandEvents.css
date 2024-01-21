@@ -1,0 +1,50 @@
+/*================================================================*/
+/*News and Event*/
+#NEbody{
+  width: 100%;
+  margin:0 auto;
+  display: table; 
+  overflow: hidden;
+  justify-content: center;
+  padding:20px 20px;
+  margin:auto;
+
+}
+.card{
+  width:85%;
+  height:auto;
+  display:flex;
+  border-radius: 18px;
+  background-image:url("../Images/bg2.jpg");
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
+  margin:auto;
+  margin-bottom:20px;
+  transition: transform .10s;
+  background-attachment: inherit;
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.card:hover{
+	transform: scale(1.2); 
+	
+}
+
+#card-image img{
+  display:flex;
+  margin:auto;
+  border-radius:18px 0px 0px 18px;
+  background-size: cover;
+  width:250px;
+  height:200px;
+}
+#DArea {
+	padding:20px 20px;
+}
+
+#DArea h2,
+#DArea p{
+	padding:10px 10px;
+}

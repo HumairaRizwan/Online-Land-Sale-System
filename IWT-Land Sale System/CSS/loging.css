@@ -1,0 +1,19 @@
+/*=================================================================================================================*/
+/*loging*/
+
+.Plogo1 img {
+  height: 100px;
+  display:block;
+  margin:auto;
+}
+
+.logingbody section{
+	padding:20px 50px 20px 50px;
+}
+.error p{
+	padding:10px 10px;
+	background: red;
+	color:black;
+	font-size: 50px;
+
+}
