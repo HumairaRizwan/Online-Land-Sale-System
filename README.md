@@ -1,6 +1,6 @@
-# Online Land Sales System
+# Online Land Sale System
 
-Welcome to the Online Land Sales System project! This website serves as a platform for facilitating online land transactions, allowing users to seamlessly sell, purchase, and reserve lands. 
+Welcome to the Online Land Sale System project! This website serves as a platform for facilitating online land transactions, allowing users to seamlessly sell, purchase, and reserve lands. 
 The primary goal of this system is to simplify the process of land transactions, providing a convenient and efficient way for sellers to list their lands and for buyers to find and acquire properties 
 of interest.
 
