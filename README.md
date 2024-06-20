@@ -16,5 +16,5 @@ of interest.
   
 - **Payment Details:** Users can specifies a payment method (credit, debit) for purchasing and the user has to provide the payment details to the system.
 
-- ![image](https://github.com/HumairaRizwan/Online-Land-Sale-System/assets/128172320/c7c69c1f-8490-42f4-bab6-f14289513d39)
+  ![image](https://github.com/HumairaRizwan/Online-Land-Sale-System/assets/128172320/c7c69c1f-8490-42f4-bab6-f14289513d39)
 
